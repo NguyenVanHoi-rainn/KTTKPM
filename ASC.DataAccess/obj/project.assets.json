@@ -3406,11 +3406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
       "projectName": "ASC.DataAccess",
-      "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3431,11 +3431,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
-              "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
+            "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+              "projectPath": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
             },
-            "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-              "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+            "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
             }
           }
         }

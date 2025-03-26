@@ -2755,11 +2755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
       "projectName": "ASC.Model",
-      "projectPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+      "projectPath": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
       "packagesPath": "C:\\Users\\Hoai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\obj\\",
+      "outputPath": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

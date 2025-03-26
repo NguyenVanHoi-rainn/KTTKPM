@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MsqoZUNvq5M=",
+  "dgSpecHash": "d1S0Gyzvv34=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hoai\\Desktop\\toàn\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+  "projectFilePath": "C:\\Users\\Hoai\\Desktop\\thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoai\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Hoai\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
