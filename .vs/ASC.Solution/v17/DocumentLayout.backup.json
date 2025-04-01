@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\initiateresetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\initiateresetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|c:\\users\\hoai\\desktop\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1028F29-4A8A-44E4-B051-055C208DBDD1}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -18,21 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\appsettings.json",
               "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
               "ToolTip": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\appsettings.json",
               "RelativeToolTip": "ASC.Web\\appsettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-25T16:27:56.112Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -41,6 +52,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwGkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:35:13.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:33:45.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InitiateResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:33:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthMessageSender.cs",
               "DocumentMoniker": "C:\\Users\\Hoai\\Desktop\\th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Services\\AuthMessageSender.cs",
@@ -48,8 +97,7 @@
               "RelativeToolTip": "ASC.Web\\Services\\AuthMessageSender.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T06:30:20.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T06:30:20.142Z"
             }
           ]
         }
